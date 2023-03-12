@@ -4,7 +4,9 @@
 
 ## React
 
-* [React](01_React/boilerplate.md)
+* [React](01_React/projects)
+  * [Chatgpt](01_React/projects/chatgpt.md)
+
 
 ## Overview
 
