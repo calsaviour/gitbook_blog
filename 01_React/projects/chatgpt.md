@@ -7,6 +7,32 @@ npx tailwindcss init -p
 npm i openai
 ```
 
+## Replace styles/global.css with
+```
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+## Replace tailwind.config.js with
+```
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    './app/**/*.{js,ts,jsx,tsx}',
+    './pages/**/*.{js,ts,jsx,tsx}',
+    './components/**/*.{js,ts,jsx,tsx}',
+    // Or if using `src` directory:
+    './src/**/*.{js,ts,jsx,tsx}',
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+```
+
 ## Create a file under pages/api/generate-answer
 ```
 import type { NextApiRequest, NextApiResponse } from 'next';
