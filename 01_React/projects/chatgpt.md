@@ -96,4 +96,4 @@ curl -X POST -H "Content-Type: application/json" -d '{"prompt": "How are you"}' 
 ```
 
 ## Reference
-- gpt-chat[https://github.com/calsaviour/openai-projects/tree/main/gpt-chat]
+- [gpt-chat](https://github.com/calsaviour/openai-projects/tree/main/gpt-chat)
