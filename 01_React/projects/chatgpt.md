@@ -94,3 +94,6 @@ npm run dev
 ```
 curl -X POST -H "Content-Type: application/json" -d '{"prompt": "How are you"}' http://localhost:3000/api/generate-answer
 ```
+
+## Reference
+- https://github.com/calsaviour/openai-projects/tree/main/gpt-chat
