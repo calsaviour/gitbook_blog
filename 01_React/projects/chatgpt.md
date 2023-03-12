@@ -1,5 +1,14 @@
 ## Code to Start A Boilerplate
 ```
+npx create-next-app@latest gpt-chat
+npm i react-usestateref
+npm i -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i openai
+```
+
+## Create a file under pages/api/generate-answer
+```
 import type { NextApiRequest, NextApiResponse } from 'next';
 import { Configuration, OpenAIApi } from 'openai';
 
@@ -43,6 +52,19 @@ export default async function handler(
 }
 ```
 
+
+## Create a .env.local file
+```
+OPENAI_API_KEY=<REPLACE_THIS>
+```
+
+
+## Run Code
+```
+npm run dev
+```
+
+## Replace This
 ```
 curl -X POST -H "Content-Type: application/json" -d '{"prompt": "How are you"}' http://localhost:3000/api/generate-answer
 ```
