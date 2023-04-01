@@ -138,5 +138,5 @@ npx prisma db seed
 npx prisma studio
 ```
 
-## Refereneces
+## References
 - https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw
