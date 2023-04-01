@@ -133,6 +133,11 @@ npm install --save-dev ts-node
 npx prisma db seed
 ```
 
+## Update db
+```
+npx prisma db push
+```
+
 ## Inspect Records
 ```
 npx prisma studio
