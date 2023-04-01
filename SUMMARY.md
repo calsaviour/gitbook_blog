@@ -12,8 +12,8 @@
 
 ## NextJS
 
-* [NextJS](01_NextJS/fullstack_reference)
-  * [Prisma](01_NextJS/fullstack_reference/01_prisma.md)
+* [NextJS](02_NextJS/fullstack_reference)
+  * [Prisma](02_NextJS/fullstack_reference/01_prisma.md)
 
 
 ## Overview
