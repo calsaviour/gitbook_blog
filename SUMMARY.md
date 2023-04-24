@@ -8,14 +8,16 @@
   * [Chatgpt](01_React/projects/chatgpt.md)
   * [Jest](01_React/projects/jest.md)
 
-
-
 ## NextJS
 
 * [NextJS](02_NextJS/fullstack_reference)
   * [Prisma](02_NextJS/fullstack_reference/01_prisma.md)
   * [Typescript](02_NextJS/typescript/01_typescript.md)
 
+## AWS CDK
+
+* [AWS_CDK](03_AWS_CDK/setup)
+  * [Steps](03_AWS_CDK/setup/01_steps.md)
 
 ## Overview
 
