@@ -19,6 +19,13 @@
 * [AWS_CDK](03_AWS_CDK/setup)
   * [Steps](03_AWS_CDK/setup/01_steps.md)
 
+
+## Learnings
+
+* [Learnings](04_Learnings)
+  * [Repos](04_Learnings/01_learnings.md)
+
+
 ## Overview
 
 * [💡 What we do](overview/what-we-do.md)
