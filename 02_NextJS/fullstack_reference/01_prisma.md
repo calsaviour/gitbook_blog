@@ -138,6 +138,13 @@ npx prisma db seed
 npx prisma db push
 ```
 
+## Reset Database
+```
+npx prisma migrate reset
+npx prisma generate
+npx prisma db push
+```
+
 ## Inspect Records
 ```
 npx prisma studio
