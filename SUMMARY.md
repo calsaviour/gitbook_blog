@@ -20,6 +20,12 @@
   * [Steps](03_AWS_CDK/setup/01_steps.md)
 
 
+## T3 Stack
+
+* [T3_Stack](05_T3Stack)
+  * [Repos](05_T3Stack/01_Steps.md)
+
+
 ## Learnings
 
 * [Learnings](04_Learnings)
