@@ -11,6 +11,7 @@
 ## NextJS
 
 * [NextJS](02_NextJS/fullstack_reference)
+  * [CheatSheet](02_NextJS/cheatsheet/01_cheatsheet.md)
   * [Prisma](02_NextJS/fullstack_reference/01_prisma.md)
   * [Typescript](02_NextJS/typescript/01_typescript.md)
 
